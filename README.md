@@ -20,7 +20,7 @@
 <a href="https://www.exchangerate-api.com/"><img src="https://imagetolink.com/ib/H8oUb7nMd8.png" alt="H8oUb7nMd8"/></a>
 <br/>
 
-<p>Edit these parts(your_api_key) to enter your api key</p>
+<p>Edit these parts(your_api_key) in index.py to enter your api key</p>
 
 ```bash
 base_url = 'https://v6.exchangerate-api.com/v6/your_api_key/latest' #add your apikey which you got from https://www.exchangerate-api.com/ instead of your_api_key
