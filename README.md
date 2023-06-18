@@ -2,12 +2,17 @@
 <br/>
 <p>This is a exchange rate converter program build using python and app.exchangerate-api.com</p>
 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
 <p>To run the program, first clone the project or download the zip file and open it in your code editor</p>
 
 ```bash
 > git clone https://github.com/NemasisDarkX/Currency-Exchange-Rate-Converter.git
 ```
-
+<p>Then install the required liberary</p>
+```bash
+> pip install requests
+```
 </br>
 <p>Then get your api(click on the image)</p>
 <a href="https://www.exchangerate-api.com/"><img src="https://imagetolink.com/ib/H8oUb7nMd8.png" alt="H8oUb7nMd8"/></a>
@@ -49,5 +54,5 @@ Enter Amount To Convert:10
 10.0 CAD = 619.703 INR
 10.0 CAD = 7.574999999999999 USD
   ```
-  
+<b><p>IF YOU LIKE THIS PROJECT CONSIDER GIVING IT A ⭐</p></b>  
   
