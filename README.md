@@ -2,8 +2,7 @@
 <br/>
 <p>This is a exchange rate converter program build using python and app.exchangerate-api.com</p>
 <p>First get your api from</p>
-<img src="https://i.ibb.co/pdMdkw8/hr-logo-2022-ldpi-rc.png" alt="ExchangeRate-API Logo">
-
+<a href="https://ibb.co/cyG3k9W"><img src="https://i.ibb.co/cyG3k9W/Logo-medium-invert.png" alt="Logo-medium-invert" border="0"></a>
 
 
 
