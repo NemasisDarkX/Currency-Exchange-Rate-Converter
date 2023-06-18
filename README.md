@@ -10,9 +10,11 @@
 > git clone https://github.com/NemasisDarkX/Currency-Exchange-Rate-Converter.git
 ```
 <p>Then install the required liberary</p>
+
 ```bash
 > pip install requests
 ```
+
 </br>
 <p>Then get your api(click on the image)</p>
 <a href="https://www.exchangerate-api.com/"><img src="https://imagetolink.com/ib/H8oUb7nMd8.png" alt="H8oUb7nMd8"/></a>
