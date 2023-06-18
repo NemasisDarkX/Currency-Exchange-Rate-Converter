@@ -28,8 +28,8 @@ def convert_currency(amount, rates):
 
 
 def main():
-    base_currency = input("Enter Currency You Want To Conver:")
-    target_currencies = input("Enter Currency you want {base_currenct} convert to:")
+    base_currency = input("Enter Currency You Want To Convert:")
+    target_currencies = input(f"Enter Currency you want {base_currency} convert to:")
     target_currencies = target_currencies.split(',')
 
     rates = fetch_data(base_currency, target_currencies)
