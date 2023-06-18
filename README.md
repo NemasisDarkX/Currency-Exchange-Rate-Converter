@@ -4,8 +4,9 @@
 <p>First get your api from(click on the image)</p>
 <a href="https://www.exchangerate-api.com/"><img src="https://imagetolink.com/ib/H8oUb7nMd8.png" alt="H8oUb7nMd8"/></a>
 <br/>
-```
-git clone https://github.com/NemasisDarkX/Currency-Exchange-Rate-Converter.git
+
+```bash
+> git clone https://github.com/NemasisDarkX/Currency-Exchange-Rate-Converter.git
 ```
 
 
