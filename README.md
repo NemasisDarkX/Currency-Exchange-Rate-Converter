@@ -2,7 +2,7 @@
 <br/>
 <p>This is a exchange rate converter program build using python and app.exchangerate-api.com</p>
 
-![JavaScript](https://img.shields.io/badge/javascript-3670A0?style=for-the-badge&logo=javascript&logoColor=ffdd54)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 <p>To run the program, first clone the project or download the zip file and open it in your code editor</p>
 
